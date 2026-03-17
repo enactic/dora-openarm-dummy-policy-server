@@ -1,4 +1,4 @@
-# dora-openarm-dummy
+# dora-openarm-dummy-policy-server
 
 A [dora-rs](https://dora-rs.ai/) node that mimics policy server for testing.
 
